@@ -44,7 +44,7 @@
   - [x] DOM
   - [x] Scope
   - [x] Methods: Array, String, Object
-  - [ ] Cookie, LocalStorage
+  - [x] Cookie, LocalStorage
   - [x] Error Handling
   - [ ] Context
   - [ ] Collections & Iterators
