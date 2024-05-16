@@ -1,0 +1,106 @@
+# :books: Learning Tree
+## HTML
+  - [x] Basics, Syntax, Semantic
+  - [x] Accessibility (Basics)
+  - [x] Page Loading Optimization (Basic Principles)
+  - [ ] SEO
+  - [ ] Microdata
+  - React Layout
+    - [x] JSX
+    - [ ] CSS-in-JS
+  - Template Engines
+    - [ ] Pug
+  - Preprocessors
+    - [ ] Haml
+  - Plugins
+    - [ ] Emmet   
+
+## CSS
+  - [x] Basics, Syntax
+  - [x] Layout (Flexbox, Grid)
+  - [x] Transition, Animation
+  - [x] Graphics: Raster, Vector
+  - [ ] Adaptive Layout, Media Queries
+  - Fonts
+    - [x] Basics
+    - [ ] Variable Fonts
+    - [ ] Font Optimization
+  - Frameworks & Libraries
+    - [ ] Bootstrap
+    - [ ] Tailwind CSS
+  - Preprocessors
+    - [x] SCSS (Sass)
+    - [ ] Less
+    - [ ] PostCSS
+  - Methodologies
+    - [ ] BEM
+    - [ ] Atomic
+  
+## JavaScript
+  - [x] Functions
+  - [x] Closures 
+  - [x] Objects
+  - [x] Classes
+  - [x] DOM
+  - [x] Scope
+  - [x] Methods: Array, String, Object
+  - [ ] Cookie, LocalStorage
+  - [x] Error Handling
+  - [ ] Context
+  - [ ] Collections & Iterators
+  - [ ] Generator Function
+  - Asynchronous JS
+    - [ ] Promise, async/await
+    - [x] async & defer
+    - [ ] Event Loop, Microtasks & Macrotasks
+  - Network Requests
+    - [ ] XMLHttpRequest
+    - [ ] Fetch API
+    - [ ] Axios
+  - TypeScript  
+    - [ ] Types, Interfaces
+    - [ ] Tuples
+    - [ ] Generics
+    - [ ] Enums
+    - [ ] Type casting, Type guards
+    - [ ] React Props Typification
+  - React  
+    - [x] Basics: JSX, Components, Props
+    - [ ] Hooks: useState, useEffect, useRef, useCallback
+    - [ ] React Developer Tools
+    - [ ] React Context
+    - [ ] React Router
+    - State Management
+      - [ ] Redux
+      - [ ] Redux Toolkit
+    - Next.js
+      - [ ] SSG, SSR, ISR
+      - [ ] SEO, Metadata API
+      - [ ] Routing API
+      - [ ] Components: Image, Font, Script
+  - Testing  
+    - [ ] Jest
+    - [ ] Cypress
+    - [ ] React Testing Library
+    
+## Tools
+  - [x] Git (Basics)
+  - [ ] Prettier
+  - [ ] ESLint
+  - [ ] Gulp
+  - UI Libraries
+    - [ ] Material UI
+    - [ ] Chakra UI
+  - Package Managers
+    - [x] NPM
+    - [ ] Yarn
+  - Module Bundlers
+    - [ ] Webpack
+    - [ ] Vite
+  - Deploy
+    - [ ] Vercel
+  - UI/UX
+    - [x] Figma
+    - [ ] Adobe XD
+    - [x] Adobe Photoshop
+    - [ ] Adobe Illustrator
