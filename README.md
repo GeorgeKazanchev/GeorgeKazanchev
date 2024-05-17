@@ -10,7 +10,7 @@ Graduated from Bauman Moscow State Technical University in 2022.
 Email: georgekazanchev@gmail.com.
 
 ## :hammer_and_wrench: My tech stack
-- HTML, CSS, JavaScript.
+- HTML, CSS, SCSS, JavaScript.
 - Figma, Adobe Photoshop.
 - C#, Avalonia UI
 - PostgreSQL
