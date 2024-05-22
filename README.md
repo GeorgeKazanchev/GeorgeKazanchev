@@ -17,11 +17,11 @@ Email: georgekazanchev@gmail.com.
 
 [Learn more](https://github.com/GeorgeKazanchev/GeorgeKazanchev/blob/main/LearningTree.md)
 
-## :house: My Projects
+## :house: Some of My Projects
 
 | Name | Description | Used Technologies |
 | ---- | ----------- | ----------------- |
-| [Device](https://github.com/GeorgeKazanchev/Device) | ... | HTML, CSS, JavaScript (Vanilla) |
-| [Sail Club](https://github.com/GeorgeKazanchev/Sail-Club) | ... | HTML, CSS, JavaScript (Vanilla) |
+| [Sail Club](https://github.com/GeorgeKazanchev/Sail-Club) | &laquo;Under Sail&raquo; yacht club landing page. It was created for getting basic skills of HTML, CSS and JavaScript. | HTML, CSS, JavaScript |
+| [Device](https://github.com/GeorgeKazanchev/Device) | Online gadget store website layout which is performed for improving skills in making a layout using HTML and CSS. | HTML, CSS, JavaScript |
 | [Memory](https://github.com/GeorgeKazanchev/Memory) | ... | JavaScript, React, Webpack |
 | [What To Watch](https://github.com/GeorgeKazanchev/What-To-Watch) &nbsp; :exclamation:WIP | ... | JavaScript, React, Redux, Webpack, C#, ASP.NET, EF Core, PostgreSQL |
