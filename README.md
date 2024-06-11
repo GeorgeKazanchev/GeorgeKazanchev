@@ -23,5 +23,5 @@ Email: georgekazanchev@gmail.com.
 | ---- | ----------- | ----------------- |
 | [Sail Club](https://github.com/GeorgeKazanchev/Sail-Club) | &laquo;Under Sail&raquo; yacht club landing page. It was created for getting basic skills of HTML, CSS and JavaScript. | HTML, CSS, JavaScript |
 | [Device](https://github.com/GeorgeKazanchev/Device) | Online gadget store website layout which is performed for improving skills in making a layout using HTML and CSS. | HTML, CSS, JavaScript |
-| [Memory](https://github.com/GeorgeKazanchev/Memory) | ... | JavaScript, React, Webpack |
-| [What To Watch](https://github.com/GeorgeKazanchev/What-To-Watch) &nbsp; :exclamation:WIP | ... | JavaScript, React, Redux, Webpack, C#, ASP.NET, EF Core, PostgreSQL |
+| [Memory](https://github.com/GeorgeKazanchev/Memory) | Simple browser-based game for memory training. Created during studying the "Introduction to React" course. | React, JavaScript, Webpack |
+| [Cinemaddict](https://github.com/GeorgeKazanchev/Cinemaddict) | Information service for film lovers. Single Page Application created for getting practice in designing frontend applications and its implementing via TypeScript, CSS-preprocessors and other tools of modern frontend software development. | TypeScript, SCSS, Webpack, BEM |
