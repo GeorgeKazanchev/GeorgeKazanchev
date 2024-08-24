@@ -33,7 +33,7 @@
     - [ ] Less
     - [ ] PostCSS
   - Methodologies
-    - [ ] BEM
+    - [x] BEM
     - [ ] Atomic
   
 ## JavaScript
@@ -46,22 +46,22 @@
   - [x] Methods: Array, String, Object
   - [x] Cookie, LocalStorage
   - [x] Error Handling
-  - [ ] Context
+  - [x] Context
   - [ ] Collections & Iterators
   - [ ] Generator Function
   - Asynchronous JS
-    - [ ] Promise, async/await
+    - [x] Promise, async/await
     - [x] async & defer
     - [ ] Event Loop, Microtasks & Macrotasks
   - Network Requests
-    - [ ] XMLHttpRequest
-    - [ ] Fetch API
+    - [x] XMLHttpRequest
+    - [x] Fetch API
     - [ ] Axios
   - TypeScript  
-    - [ ] Types, Interfaces
+    - [x] Types, Interfaces
     - [ ] Tuples
     - [ ] Generics
-    - [ ] Enums
+    - [x] Enums
     - [ ] Type casting, Type guards
     - [ ] React Props Typification
   - React  
@@ -86,7 +86,7 @@
 ## Tools
   - [x] Git (Basics)
   - [ ] Prettier
-  - [ ] ESLint
+  - [x] ESLint
   - [ ] Gulp
   - UI Libraries
     - [ ] Material UI
