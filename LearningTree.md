@@ -20,7 +20,7 @@
   - [x] Layout (Flexbox, Grid)
   - [x] Transition, Animation
   - [x] Graphics: Raster, Vector
-  - [ ] Adaptive Layout, Media Queries
+  - [x] Adaptive Layout, Media Queries
   - Fonts
     - [x] Basics
     - [ ] Variable Fonts
@@ -47,33 +47,32 @@
   - [x] Cookie, LocalStorage
   - [x] Error Handling
   - [x] Context
-  - [ ] Collections & Iterators
+  - [x] Collections & Iterators
   - [ ] Generator Function
   - Asynchronous JS
     - [x] Promise, async/await
     - [x] async & defer
-    - [ ] Event Loop, Microtasks & Macrotasks
+    - [x] Event Loop, Microtasks & Macrotasks
   - Network Requests
     - [x] XMLHttpRequest
     - [x] Fetch API
-    - [ ] Axios
+    - [x] Axios
   - TypeScript  
     - [x] Types, Interfaces
-    - [ ] Tuples
-    - [ ] Generics
+    - [x] Tuples
+    - [x] Generics
     - [x] Enums
     - [ ] Type casting, Type guards
     - [ ] React Props Typification
   - React  
     - [x] Basics: JSX, Components, Props
-    - [ ] Hooks: useState, useEffect, useRef, useCallback
+    - [x] Hooks: useState, useEffect, useRef, useCallback
     - [ ] React Developer Tools
     - [ ] React Context
-    - [ ] React Router
+    - [x] React Router
     - State Management
-      - [ ] Redux
-      - [ ] Redux Toolkit
-    - Next.js
+      - [x] Redux
+      - [x] Redux Toolkit
       - [ ] SSG, SSR, ISR
       - [ ] SEO, Metadata API
       - [ ] Routing API
@@ -95,7 +94,7 @@
     - [x] NPM
     - [ ] Yarn
   - Module Bundlers
-    - [ ] Webpack
+    - [x] Webpack
     - [ ] Vite
   - Deploy
     - [ ] Vercel
