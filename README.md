@@ -12,6 +12,7 @@ Email: georgekazanchev@gmail.com.
 ## :hammer_and_wrench: My tech stack
 - HTML, CSS, SCSS.
 - JavaScript, TypeScript, React.
+- Webpack.
 - ESLint.
 - Figma, Adobe Photoshop.
 - C#, Avalonia UI.
@@ -23,7 +24,8 @@ Email: georgekazanchev@gmail.com.
 
 | Name | Description | Used Technologies |
 | ---- | ----------- | ----------------- |
-| [Sail Club](https://github.com/GeorgeKazanchev/Sail-Club) | &laquo;Under Sail&raquo; yacht club landing page. It was created for getting basic skills of HTML, CSS and JavaScript. | HTML, CSS, JavaScript |
-| [Device](https://github.com/GeorgeKazanchev/Device) | Online gadget store website layout which is performed for improving skills in making a layout using HTML and CSS. | HTML, CSS, JavaScript |
-| [Memory](https://github.com/GeorgeKazanchev/Memory) | Simple browser-based game for memory training. Created during studying the "Introduction to React" course. | React, JavaScript, Webpack |
-| [Cinemaddict](https://github.com/GeorgeKazanchev/Cinemaddict) | Information service for film lovers. Single Page Application created for getting practice in designing frontend applications and its implementing via TypeScript, CSS-preprocessors and other tools of modern frontend software development. | TypeScript, SCSS, Webpack, BEM |
+| [What To Watch](https://github.com/GeorgeKazanchev/WhatToWatch) WIP | Online movie theater. The project is being developed for obtaining experience with React tech stack. | React<br>TypeScript<br>Redux Toolkit<br>React Router<br>Axios<br>SCSS modules<br>Webpack<br>Jest |
+| [Cinemaddict](https://github.com/GeorgeKazanchev/Cinemaddict) | Information service for film lovers. Single Page Application created for getting practice in designing frontend applications and its implementing via TypeScript, CSS-preprocessors and other tools of modern frontend software development. | TypeScript<br>SCSS<br>Webpack<br>BEM |
+| [Memory](https://github.com/GeorgeKazanchev/Memory) | Simple browser-based game for memory training. Created during studying the "Introduction to React" course. | React<br>JavaScript<br>Webpack |
+| [Device](https://github.com/GeorgeKazanchev/Device) | Online gadget store website layout which is performed for improving skills in making a layout using HTML and CSS. | HTML<br>CSS<br>JavaScript |
+| [Sail Club](https://github.com/GeorgeKazanchev/Sail-Club) | &laquo;Under Sail&raquo; yacht club landing page. It was created for getting basic skills of HTML, CSS and JavaScript. | HTML<br>CSS<br>JavaScript |
