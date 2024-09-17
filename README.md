@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to my page!  
+
+I am a beginner frontend developer making a lot of efforts to become a professional. I have developed several non-commercial projects on my own. You can find them below.  
+
+I have also a commercial experience in a desktop applications development on the C# tech stack (but web development interests me much more).
+
 <ins>My education</ins>
 
 Engineer's degree in 24.05.04 &laquo;Navigation and ballistics for spaceflight support&raquo;.  
@@ -12,8 +18,8 @@ Email: georgekazanchev@gmail.com.
 ## :hammer_and_wrench: My tech stack
 - HTML, CSS, SCSS.
 - JavaScript, TypeScript, React.
-- Webpack.
-- ESLint.
+- Redux, RTK.
+- Webpack, Axios, ESLint.
 - Figma, Adobe Photoshop.
 - C#, Avalonia UI.
 - PostgreSQL.
@@ -24,7 +30,7 @@ Email: georgekazanchev@gmail.com.
 
 | Name | Description | Used Technologies |
 | ---- | ----------- | ----------------- |
-| [What To Watch](https://github.com/GeorgeKazanchev/WhatToWatch) WIP | Online movie theater. The project is being developed for obtaining experience with React tech stack. | React<br>TypeScript<br>Redux Toolkit<br>React Router<br>Axios<br>SCSS modules<br>Webpack<br>Jest |
+| [What To Watch](https://github.com/GeorgeKazanchev/WhatToWatch) WIP | Online movie theater. The project is being developed for obtaining experience with the React tech stack. | React<br>TypeScript<br>Redux Toolkit<br>React Router<br>Axios<br>SCSS modules<br>Webpack<br>Jest |
 | [Cinemaddict](https://github.com/GeorgeKazanchev/Cinemaddict) | Information service for film lovers. Single Page Application created for getting practice in designing frontend applications and its implementing via TypeScript, CSS-preprocessors and other tools of modern frontend software development. | TypeScript<br>SCSS<br>Webpack<br>BEM |
 | [Memory](https://github.com/GeorgeKazanchev/Memory) | Simple browser-based game for memory training. Created during studying the "Introduction to React" course. | React<br>JavaScript<br>Webpack |
 | [Device](https://github.com/GeorgeKazanchev/Device) | Online gadget store website layout which is performed for improving skills in making a layout using HTML and CSS. | HTML<br>CSS<br>JavaScript |
